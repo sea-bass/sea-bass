@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm a robotics engineer currently taking a short break.
+I'm a robotics engineer and applied scientist working at [The AI Institute](https://theaiinstitute.com/).
 
 Previously, I was at:
 * (2022-2024) [PickNik Robotics](https://picknik.ai) working on [MoveIt Pro](https://picknik.ai/pro/) for robot behavior and planning in the ROS ecosystem.
