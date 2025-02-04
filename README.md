@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm a robotics engineer and applied scientist working at [The AI Institute](https://theaiinstitute.com/), focusing on task and motion planning with learned skills for long-horizon, contact rich manipulation tasks.
+I'm a robotics engineer and applied scientist working at the [Robotics and AI (RAI) Institute](https://rai-inst.com/), focusing on task and motion planning with learned skills for long-horizon, contact rich manipulation tasks.
 
 Previously, I was at:
 * (2022-2024) [PickNik Robotics](https://picknik.ai) working on [MoveIt Pro](https://picknik.ai/pro/) for robot behavior and planning in ROS 2. I still help out as a [MoveIt maintainer](https://moveit.ai/about/).
