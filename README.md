@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm a robotics engineer and applied scientist working at the [Robotics and AI (RAI) Institute](https://rai-inst.com/), focusing on composition learned skills for robust, long-horizon, contact rich manipulation tasks.
+I'm a robotics engineer and applied scientist working at the [Robotics and AI (RAI) Institute](https://rai-inst.com/), focusing on composition of learned skills for robust, long-horizon, contact rich manipulation tasks.
 
 Previously, I was at:
 * (2022-2024) [PickNik Robotics](https://picknik.ai) working on [MoveIt Pro](https://picknik.ai/pro/) for robot behavior and planning in ROS 2.
