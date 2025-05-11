@@ -7,7 +7,7 @@ Previously, I was at:
 * (2021-2022) [Boston Dynamics](https://www.bostondynamics.com/) working on behaviors for the [Stretch](https://www.bostondynamics.com/stretch) warehouse robot.
 * (2020-2021) The [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), as a research software engineer.
 * (2011-2019) [MathWorks](https://www.mathworks.com/), where I supported student competitions such as [RoboCup](https://www.robocup.org/) and made robotics educational content with MATLAB and Simulink.
-* (2006-2020) Cornell University, B.S. + M.S. Mechanical Engineering.
+* (2006-2011) Cornell University, B.S. + M.S. Mechanical Engineering.
 
 On my spare time, I like to teach things related to robotics, AI, and software development.
 Learn more at [https://roboticseabass.com/](https://roboticseabass.com/).
