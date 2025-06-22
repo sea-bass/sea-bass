@@ -18,6 +18,7 @@ Some highlights include:
 * Currently helping maintain [PyTrees](https://github.com/splintered-reality/py_trees), and formerly have helped with [rosbridge](https://github.com/RobotWebTools/rosbridge_suite) and [MoveIt 2](https://github.com/moveit/moveit2).
 * Co-moderator of the [ROS Deliberation Community Group](https://github.com/ros-wg-delib).
 * Mentor for [Google Summer of Code](https://summerofcode.withgoogle.com/) (2023-2024) and [Women Coding Community](https://womencodingcommunity.com/) (2025).
+* Reviewer for the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/): [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@sea-bass)](https://joss.theoj.org/papers/reviewed_by/@sea-bass)
 
 Selected talks, if you'd like to learn more about my career:
 * Podcasts with Chandandeep Singh @ Learn Robotics & AI -- [January 2022](https://www.youtube.com/playlist?list=PLrOeA8xRZt1d4pgVG_NRr4FE3hi5vlCbX) and [March 2025](https://youtu.be/S4TJwWj99_8?si=vVB3-rxK44aJeqnb)
