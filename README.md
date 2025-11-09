@@ -14,7 +14,7 @@ Learn more at [https://roboticseabass.com/](https://roboticseabass.com/).
 
 I am passionate about open-source robotics software and am an active member of the Robot Operating System (ROS) community, with a focus on education and community building.
 Some highlights include:
-* Creator of [PyRoboSim](https://github.com/sea-bass/pyrobosim), [PyRoboPlan](https://github.com/sea-bass/pyroboplan), and [TurtleBot Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos).
+* Creator of [PyRoboSim](https://github.com/sea-bass/pyrobosim), [RoboPlan](https://github.com/open-planning/roboplan), and [TurtleBot Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos).
 * Currently helping maintain [PyTrees](https://github.com/splintered-reality/py_trees), and formerly have helped with [rosbridge](https://github.com/RobotWebTools/rosbridge_suite) and [MoveIt 2](https://github.com/moveit/moveit2).
 * Co-moderator of the [ROS Deliberation Community Group](https://github.com/ros-wg-delib).
 * Mentor for [Google Summer of Code](https://summerofcode.withgoogle.com/) (2023-2024) and [Women Coding Community](https://womencodingcommunity.com/) (2025).
