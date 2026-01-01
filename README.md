@@ -26,3 +26,5 @@ Selected talks, if you'd like to learn more about my career:
 * [Robot Arm Motion Planning with PyRoboPlan](https://youtu.be/YYRlypz9ZgE?si=9swEv99q9MPx5l3T) -- Robotics Developers Day @ The Construct, July 2024
 * [Podcast with Muhammad Luqman @ Robotisim](https://youtu.be/hBWMQvCjevs?si=HoTsoE4PanJopwd_) -- November 2024
 * [Implementing Robot Task Planning with Learned Manipulation Skills](https://youtu.be/91igg5x-D6c?si=Elk7RAMd7aIYr7M2) -- Robotics Colloquium @ University of Washington, February 2025
+* [Advancing Robot Learning with ROS 2](https://vimeo.com/1136158846) -- Keynote talk with Tiffany Cappellari @ ROSCon 2025, October 2025
+* [Robots are complex, but your systems don't have to be](https://youtu.be/6uK5i8woHVY?si=LW8-CrCLOXiFAcsw) -- Talking Robotics, December 2025
